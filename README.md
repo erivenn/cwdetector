@@ -1,2 +1,1 @@
-# cwdetector
-Master's Thesis project
+# geojson2coco
